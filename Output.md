@@ -1,14 +1,34 @@
-## Question 2
-
-Output of following java statements: 
-
-```java
-        String phr = new String("Big,blue sky");
-        System.out.println(phr.substring(phr.indexOf(","),7));
-```
+## Question 3
 
 Output: 
 ![alt text][logo]
 
-[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Logo Title Text 2"
+[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 4"
 
+## Question 4
+
+Output: 
+![alt text][logo]
+
+[logo]: https://user-images.githubusercontent.com/55252513/76352455-0ae91a80-634a-11ea-8b4e-154e9a73c2b8.PNG "Output 4"
+
+## Question 5
+
+Output: 
+![alt text][logo]
+
+[logo]: https://user-images.githubusercontent.com/55252513/76352457-0b81b100-634a-11ea-8293-3277c5b9397c.PNG "Output 5"
+
+## Question 6
+
+Output: 
+![alt text][logo]
+
+[logo]: https://user-images.githubusercontent.com/55252513/76352458-0b81b100-634a-11ea-9271-0d4713556c89.PNG "Output 6"
+
+## Question 7
+
+Output: 
+![alt text][logo]
+
+[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 7"
