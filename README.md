@@ -1,14 +1,8 @@
-## Question 2
-
-Output of following java statements: 
+## Question 3
 
 ```java
-        String phr = new String("Big,blue sky");
-        System.out.println(phr.substring(phr.indexOf(","),7));
+        Random rd = new Random();
+        System.out.println(rd.nextInt(41) + 10);
 ```
 
-Output: 
-![alt text][logo]
-
-[logo]: https://user-images.githubusercontent.com/55252513/76351595-af6a5d00-6348-11ea-8e7d-1823247757e6.PNG "Logo Title Text 2"
-
+description: output will display a random number range 10-41
