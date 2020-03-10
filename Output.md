@@ -1,9 +1,9 @@
-## Question 3
+## Question 2
 
 Output: 
-![alt text][logo3]
+![alt text][logo]
 
-[logo3]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 3"
+[logo]: https://user-images.githubusercontent.com/55252513/76351595-af6a5d00-6348-11ea-8e7d-1823247757e6.PNG "Output2"
 
 ## Question 4
 
