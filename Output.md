@@ -3,7 +3,7 @@
 Output: 
 ![alt text][logo]
 
-[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 4"
+[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 3"
 
 ## Question 4
 
@@ -29,6 +29,6 @@ Output:
 ## Question 7
 
 Output: 
-![alt text][logo]
+![alt text][logo7]
 
-[logo]: https://user-images.githubusercontent.com/55252513/76352454-0a508400-634a-11ea-8de6-1df189fdb8db.PNG "Output 7"
+[logo7]: https://user-images.githubusercontent.com/55252513/76352451-0886c080-634a-11ea-8ffe-aec618fcac44.PNG "Output 7"
